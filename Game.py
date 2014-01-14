@@ -1,7 +1,5 @@
 #Game module
 
-import GameProcess
-
 (X,Y) = (0,1) #set up some module-wide constants
 
 class Game(object):
